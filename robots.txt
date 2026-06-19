@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plianas4.github.io/ssl-cn-zhcw-com/sitemap.xml
